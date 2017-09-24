@@ -37,13 +37,13 @@ They say that the Maven search site can take up to 2 hours to update:
 http://mvnrepository.com/artifact/org.organicdesign/Paguro
 	-->
 	<groupId>org.organicdesign</groupId>
-	<artifactId>Paguro</artifactId>
-	<version>3.0.16</version>
+	<artifactId>PaguroKx</artifactId>
+	<version>0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Paguro</name>
-	<description>Immutable Clojure collections and a Transformation abstraction for Java 8+, immutably, type-safely, and with good performance.</description>
-	<url>https://github.com/GlenKPeterson/Paguro</url>
+	<description>Immutable collection implementations (many from Clojure) for use with kotlinx-collections.</description>
+	<url>https://github.com/GlenKPeterson/PaguroKx</url>
 
 	<licenses>
 		<license>
@@ -68,9 +68,9 @@ http://mvnrepository.com/artifact/org.organicdesign/Paguro
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:https://github.com/GlenKPeterson/Paguro.git</connection>
-		<developerConnection>scm:git:https://github.com/GlenKPeterson/Paguro.git</developerConnection>
-		<url>https://github.com/GlenKPeterson/Paguro.git</url>
+		<connection>scm:git:https://github.com/GlenKPeterson/PaguroKx.git</connection>
+		<developerConnection>scm:git:https://github.com/GlenKPeterson/PaguroKx.git</developerConnection>
+		<url>https://github.com/GlenKPeterson/PaguroKx.git</url>
 	</scm>
 	<build>
 		<defaultGoal>compile</defaultGoal>
